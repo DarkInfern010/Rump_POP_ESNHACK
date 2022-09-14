@@ -5,7 +5,7 @@ Le but étant de montrer la rapidité de faire un affichage console lisible sans
 
 # Rump POP pour l'ESNHACK
 
-Vous pouvez retrouver ici, mes slides sous format pdf ou bien via le [lien]([https://www.google.com](https://www.canva.com/design/DAFKDTH0Ppw/Brd1xRxcRd22cIsclyB40g/view?utm_content=DAFKDTH0Ppw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)), les scripts de présentation ainsi que les vidéos de présentation.
+Vous pouvez retrouver ici, mes slides sous format pdf (POP_Slides.pdf) ou bien via le [lien]([https://www.google.com](https://www.canva.com/design/DAFKDTH0Ppw/Brd1xRxcRd22cIsclyB40g/view?utm_content=DAFKDTH0Ppw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)), les scripts de présentation ainsi que les vidéos de présentation.
 De plus, vous y retrouverez le script ReloadPython.py
 
 # Détails
