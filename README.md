@@ -9,14 +9,14 @@ Vous pouvez retrouver ici, mes slides sous format pdf ou bien via le [lien]([htt
 De plus, vous y retrouverez le script <reloadPython.py>
 
 # Détails
-| Modules          | Script           | Lien Doc                                                       |
-| ---------------- | ---------------- | -------------------------------------------------------------- |
-| Progress         | TutoProgress.py  | [Progress](https://pypi.org/project/progress/)                 |
-| Art              | TutoArt.py       | [Art](https://pypi.org/project/art/)                           |
-| Simple-Term-Menu | TutoMenu.py      | [Simple-Term-Menu](https://pypi.org/project/simple-term-menu/) |
-| Pandas           | TutoPandas.py    | [Pandas](https://pandas.pydata.org/docs/index.html)            |
-| Colonne          | TutoColonne.py   | N/A                                                            |
-| Bonus            | ReloadPython.py  | N/A                                                            |
+| Modules          | Script           | Vidéo Présentation       | Lien Doc                                                       |
+| ---------------- | ---------------- | ------------------------ | -------------------------------------------------------------- |
+| Progress         | TutoProgress.py  | PresentationProgress.mp4 | [Progress](https://pypi.org/project/progress/)                 |
+| Art              | TutoArt.py       | PresentationArt.mp4      | [Art](https://pypi.org/project/art/)                           |
+| Simple-Term-Menu | TutoMenu.py      | PresentationMenu.mp4     | [Simple-Term-Menu](https://pypi.org/project/simple-term-menu/) |
+| Pandas           | TutoPandas.py    | PresentationPanda.mp4    | [Pandas](https://pandas.pydata.org/docs/index.html)            |
+| Colonne          | TutoColonne.py   | PresentationColonne.mp4  | N/A                                                            |
+| Bonus            | ReloadPython.py  | PresentationReload.mp4   | N/A                                                            |
 
 # Contact
 
